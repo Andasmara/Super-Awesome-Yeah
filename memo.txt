@@ -1,0 +1,18 @@
+Today's Activity 
+
+1. Making GitHub account
+2. Downloading Source Tree
+3. Installing Source Tree
+4. Making Repository in GitHub
+5. Clone the repository to local
+
+The difference between Remote, Local, and Workplace
+
+6. Opening the ReadMe
+(Every action in the coding was made from the ReadMe)
+
+7. Make the things become staged
+
+(The difference between staged and unstagged)
+
+8. Commit things, then push it to store it to GitHub
